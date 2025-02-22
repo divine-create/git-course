@@ -4,3 +4,6 @@ This an example repository for the Git tutorila
 
 This repositor is built step by step in the tutorial
 Updates avaliable here
+
+
+# Having a nice time on the github course
